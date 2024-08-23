@@ -4,17 +4,8 @@ layout: homelay
 permalink: /
 ---
 
-The “Residual Tumor and Response to Treatment Laboratory” has four main goals.
+**Kristina Lerman is a Senior Principal Scientist at the Information Sciences Institute and holds a joint appointment as a Research Professor in the USC Viterbi School of Engineering's Computer Science Department. Her research focuses on applying network- and machine learning-based methods to problems in social computing.**
 
-**Identification of clinical and pathological factors correlated with the long-term prognosis of TNBC and HER2 positive breast cancer patients treated by neoadjuvant chemotherapy.**
-
-We have built a retrospective clinical, pathological and radiological database
-of breast cancer patients treated by neoadjuvant chemotherapy at Institut
-Curie since 2002. In triple-negative breast carcinoma (TNBC) we have
-highlighted a strong association between the lymph node involvement after
-neoadjuvant chemotherapy (NAC) and a poor prognosis outcome. We concluded
-that clinical trials should be implemented for high-risk patients after NAC
-(pN+, Elston Ellis Grade 3 and non menopausal status) to validate new
-therapeutic solutions.
+Lerman’s research aims to harness the power of AI in a connected world. Her past work has helped shape how we think about social media platforms, elucidating the role of social networks in the spread of information and also what we see and what we know. Her current research examines digital vulnerabilities in a hyperconnected world, including online influence campaigns, mental health harms and affective polarization. Lerman’s second major research area focuses  on how AI systems can learn from biased data. Her group is developing statistical methods to audit biases in real-world data and create fair models from biased data. These models will, in turn, enable socially-embedded AI systems to mediate human interactions to reduce antisocial behaviors and mitigate their unintended harms.
 
 
