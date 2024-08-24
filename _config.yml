@@ -26,6 +26,7 @@ sass_dir: ./_sass
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sass-converters
 
 # Conversion
 markdown: kramdown
