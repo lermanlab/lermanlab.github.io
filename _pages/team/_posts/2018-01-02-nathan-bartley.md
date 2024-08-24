@@ -3,7 +3,7 @@ layout: member
 category: phd-student
 title: Nathan Bartley
 image: nathan.jpg
-role: Social Networks, Recommender Systems
+role: Social Networks,<br> Recommender Systems
 permalink: 'team/nathan-bartley'
 social:
   twitter: https://x.com/reichaos
