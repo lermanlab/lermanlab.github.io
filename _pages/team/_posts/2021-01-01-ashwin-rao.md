@@ -3,7 +3,7 @@ layout: member
 category: phd-student
 title: Ashwin Shreyas Mohan Rao
 image: ashwin.jpg
-role: Computational Social Science, Machine Learning, Social Networks
+role: Computational Social Science,<br>Machine Learning,<br>Social Networks
 permalink: 'team/ashwin-rao'
 social:
   twitter: https://x.com/ashwinshreyas
