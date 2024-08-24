@@ -3,7 +3,7 @@ layout: member
 category: phd-student
 title: Patrick Gerard
 image: patrick.jpg
-role: Computational Social Science, Network Science, Misinformation
+role: Computational Social Science,<br>Network Science,<br>Misinformation
 permalink: 'team/kai-chen'
 social:
   twitter: 
