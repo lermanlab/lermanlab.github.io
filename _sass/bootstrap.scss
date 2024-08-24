@@ -14,7 +14,23 @@ $theme-colors: (
 );
 
 @import "bootstrap/bootstrap";
+
+// Required
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+// Optional
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/type";
+// ...
+
+// Carousel
 @import "bootstrap/carousel";
+
+// Optional JavaScript plugins
+@import "bootstrap/dropdown";
 
 body {
   max-width: 800px;
