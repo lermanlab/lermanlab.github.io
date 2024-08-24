@@ -3,7 +3,7 @@ layout: member
 category: phd-student
 title: Rebecca Dorn
 image: rebecca.jpg
-role: Computational Social Science, AI Fairness
+role: Computational Social Science,<br>AI Fairness
 permalink: 'team/rebecca-dorn'
 social:
   twitter: https://x.com/rebeccadorn_
