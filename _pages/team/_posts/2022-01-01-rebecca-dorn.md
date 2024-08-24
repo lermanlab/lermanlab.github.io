@@ -3,7 +3,7 @@ layout: member
 category: phd-student
 title: Rebecca Dorn
 image: rebecca.jpg
-role: Computational Social Science,<br>AI Fairness
+role: Computational Social Science,<br>AI Fairness<br>co-advised with <a target="blank" href="https://fredzilla.github.io/">Fred Morstatter</a>
 permalink: 'team/rebecca-dorn'
 social:
   twitter: https://x.com/rebeccadorn_
