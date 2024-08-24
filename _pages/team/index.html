@@ -64,7 +64,7 @@ permalink: /team/
 <!-- Pets -->
 <h2 class="mb-3"><a id="pet"></a>Affiliated Members</h2>
 
-{% assign members = site.posts | where: 'category', 'pet' | sort: 'date' %}
+{% assign members = site.posts | where: 'category', 'reviewer' | sort: 'date' %}
 <ul class="list-unstyled">
 <div class="row">
 {% for member in members%}
