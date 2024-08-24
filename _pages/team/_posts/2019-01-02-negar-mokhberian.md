@@ -3,7 +3,7 @@ layout: member
 category: phd-student
 title: Negar Mokhberian
 image: negar.jpg
-role: Computational Social Science, Natural Language Processing, Machine Learning
+role: Computational Social Science,<br>Natural Language Processing,<br>Machine Learning
 permalink: 'team/negar-mokhberian'
 social:
   twitter: https://x.com/negar_mkhbrn
