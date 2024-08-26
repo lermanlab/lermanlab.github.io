@@ -4,21 +4,25 @@
 @import "bootstrap";
 @import "fontawesome";
 
+// Custom styles for image wrapping
 .image-wrap {
     float: right;
     margin: 0 0 20px 20px;
-    width: 40%;
-}
+    width: 40%; // Changed from max-width to width
 
-.image-wrap img {
-    width: 100%;
-    height: auto;
+    img {
+        width: 100%;
+        height: auto;
+        display: block; // Ensures the image takes up full width of its container
+    }
 }
 
 @media (max-width: 768px) {
     .image-wrap {
         float: none;
         margin: 20px auto;
-        max-width: 100%;
+        width: 100%; // Changed from max-width to width
     }
 }
+
+// Additional custom styles can be added here
