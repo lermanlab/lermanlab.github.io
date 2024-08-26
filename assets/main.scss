@@ -8,11 +8,12 @@
 .image-wrap {
     float: right;
     margin: 0 0 20px 20px;
-    max-width: 40%;
+    width: 40%; // Changed from max-width to width
 
     img {
         width: 100%;
         height: auto;
+        display: block; // Ensures the image takes up full width of its container
     }
 }
 
@@ -20,7 +21,7 @@
     .image-wrap {
         float: none;
         margin: 20px auto;
-        max-width: 100%;
+        width: 100%; // Changed from max-width to width
     }
 }
 
