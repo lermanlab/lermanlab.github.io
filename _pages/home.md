@@ -10,6 +10,6 @@ Lerman’s research aims to harness the power of AI in a connected world. Her pa
 
 <div class="phd-call" style="border: 2px dashed #ff0000; padding: 15px; margin: 10px 0;">
   <p style="margin: 0;">
-    I'm actively looking for strong and motivated students (1-2 PhDs for 2025 Fall). We welcome applicants from diverse backgrounds. If you are interested in my research group, please contact lerman AT isi.edu.
+    I'm actively looking for strong and motivated students (<b>1-2 PhDs for 2025 Fall</b>). We welcome applicants from diverse backgrounds. If you are interested in my research group, please contact <b>lerman AT isi.edu</b>.
   </p>
 </div>
