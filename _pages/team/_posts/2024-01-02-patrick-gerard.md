@@ -4,7 +4,7 @@ category: phd-student
 title: Patrick Gerard
 image: patrick.jpg
 role: Computational Social Science,<br>Network Science,<br>Misinformation
-permalink: 'team/kai-chen'
+permalink: 'team/patrick-gerard'
 social:
   twitter: 
   linkedin: https://www.linkedin.com/in/patrick-gerard-7135841a0/
